@@ -3,13 +3,13 @@ systeminfo
 ==========
 
 
-Add a short description here!
+This program will display the platform of your system. 
 
 
 Description
 ===========
 
-A longer description of your project goes here...
+Run this program to see the exact platform that your system is running on. 
 
 
 Note
