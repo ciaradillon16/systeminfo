@@ -7,7 +7,7 @@ setup(name="systeminfo",
       author="Ciara Dillon", 
       author_email="ciara.dillon1@ucdconnect.ie",
       license="GPL3",
-      packages=['systeminfo'],
+      packages=['SystemInfo'],
       entry_points={
           'console_scripts':['software_engineering_workspace_systeminfo=systeminfo.main:main']
           }
