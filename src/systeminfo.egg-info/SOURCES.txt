@@ -1,0 +1,15 @@
+LICENSE.txt
+README.rst
+requirements.txt
+setup.cfg
+setup.py
+src/SystemInfo/__init__.py
+src/SystemInfo/main.py
+src/systeminfo.egg-info/PKG-INFO
+src/systeminfo.egg-info/SOURCES.txt
+src/systeminfo.egg-info/dependency_links.txt
+src/systeminfo.egg-info/entry_points.txt
+src/systeminfo.egg-info/not-zip-safe
+src/systeminfo.egg-info/top_level.txt
+tests/conftest.py
+tests/test_skeleton.py

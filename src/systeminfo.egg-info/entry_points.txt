@@ -1,0 +1,3 @@
+[console_scripts]
+software_engineering_workspace_systeminfo = SystemInfo.main:main
+

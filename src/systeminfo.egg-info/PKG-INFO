@@ -1,0 +1,32 @@
+Metadata-Version: 1.1
+Name: systeminfo
+Version: 0.1
+Summary: Basic system information for COMP30670
+Home-page: http://...
+Author: Ciara Dillon
+Author-email: ciara.dillon1@ucdconnect.ie
+License: GPL3
+Description-Content-Type: UNKNOWN
+Description: ==========
+        systeminfo
+        ==========
+        
+        
+        This program will display the platform of your system. 
+        
+        
+        Description
+        ===========
+        
+        Run this program to see the exact platform that your system is running on. 
+        
+        
+        Note
+        ====
+        
+        This project has been set up using PyScaffold 3.0.1. For details and usage
+        information on PyScaffold see http://pyscaffold.org/.
+        
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python

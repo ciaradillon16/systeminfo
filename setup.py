@@ -9,6 +9,6 @@ setup(name="systeminfo",
       license="GPL3",
       packages=['SystemInfo'],
       entry_points={
-          'console_scripts':['software_engineering_workspace_systeminfo=systeminfo.main:main']
+          'console_scripts':['software_engineering_workspace_systeminfo=SystemInfo.main:main']
           }
       ) 
